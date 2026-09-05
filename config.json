@@ -1,0 +1,17 @@
+{
+  "page": {
+    "title": "Watch Video Live",
+    "description": "Watch Video Live"
+  },
+  "social": {
+    "type": "website",
+    "title": "Watch Video Live",
+    "description": "Watch Video Live",
+    "image": "43ab6c575008e6ead89ea5bb9f421260.jpg",
+    "twitter_card": "summary_large_image"
+  },
+  "redirect": {
+    "status": 302,
+    "url": "https://www.mortimersocalledvolume.com/vvhvu52id3?key=66b287ca0e979b86279743779be15a19"
+  }
+}
